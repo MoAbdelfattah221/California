@@ -1,2 +1,2 @@
 # California
- This is a Responsive Website For California Beaches
+ This is a Responsive Landing Page For California Beaches
