@@ -1,4 +1,4 @@
 # California
-This is a Responsive Header 
-Technologies used.. 
+This is a Responsive Website Header For California Beaches
+Technologies used..
 Html , CSS
